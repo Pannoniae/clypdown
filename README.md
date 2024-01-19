@@ -1,6 +1,6 @@
 # clypdown
 
-Download sound files from clyp.it, even when the uploader didn't enable downloads. Created by 0x27.
+Download sound files from clyp.it, even when the uploader didn't enable downloads. Created by 0x27. Now Python3™ compatible!
 
 # Original description
 
